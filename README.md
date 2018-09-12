@@ -3,4 +3,4 @@ This tutorial is the flow of creating the deep learning model and based on Datas
 
 # Environment
 1. Python 3.5.2  
-2. Tensorflow 1.9.0
+2. Tensorflow 1.10.0
